@@ -51,7 +51,7 @@ export default function Hero() {
             </div>
             <div className="mt-8 flex justify-center md:justify-start space-x-6">
               <a
-                href="hhttps://github.com/arnobm97"
+                href="https://github.com/arnobm97"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
@@ -71,7 +71,7 @@ export default function Hero() {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/arnob-mallick-84baba24a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
