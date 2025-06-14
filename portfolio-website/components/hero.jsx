@@ -27,7 +27,7 @@ export default function Hero() {
             <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl">
               <span className="block">Hi, I'm</span>
               <span className="block text-blue-600 dark:text-blue-500">
-                Your Name
+                Arnob Mallick
               </span>
             </h1>
             <p className="mt-6 text-xl text-gray-500 dark:text-gray-400 max-w-3xl">
@@ -51,7 +51,7 @@ export default function Hero() {
             </div>
             <div className="mt-8 flex justify-center md:justify-start space-x-6">
               <a
-                href="https://github.com/yourusername"
+                href="hhttps://github.com/arnobm97"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
@@ -114,13 +114,6 @@ export default function Hero() {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto">
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-blue-300 blur-3xl opacity-20"></div>
-              <div className="relative rounded-full overflow-hidden border-4 border-blue-500/20">
-                <img
-                  src="/placeholder.svg?height=320&width=320"
-                  alt="Your Name"
-                  className="w-full h-full object-cover"
-                />
-              </div>
             </div>
           </div>
         </div>

@@ -7,7 +7,7 @@ const frontendSkills = [
   { name: "CSS3/SASS", level: 85 },
   { name: "JavaScript", level: 90 },
   { name: "React", level: 90 },
-  { name: "Next.js", level: 85 },
+  { name: "Next.js", level: 20 },
   { name: "Tailwind CSS", level: 90 },
 ];
 
@@ -15,16 +15,12 @@ const backendSkills = [
   { name: "Node.js", level: 85 },
   { name: "Express", level: 80 },
   { name: "MongoDB", level: 75 },
-  { name: "PostgreSQL", level: 70 },
-  { name: "GraphQL", level: 65 },
-  { name: "REST API", level: 85 },
+  { name: "PostgreSQL", level: 15 },
+  { name: "REST API", level: 50 },
 ];
 
 const otherSkills = [
-  { name: "Git/GitHub", level: 85 },
-  { name: "Docker", level: 70 },
-  { name: "CI/CD", level: 75 },
-  { name: "AWS", level: 65 },
+  { name: "Git/GitHub", level: 90 },
   { name: "Vercel", level: 80 },
   { name: "Figma", level: 60 },
 ];
