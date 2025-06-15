@@ -6,13 +6,13 @@ import Link from "next/link";
 const projects = [
   {
     id: 1,
-    title: "Project One",
+    title: "investkoree.com",
     description:
-      "A full-stack web application built with Next.js and Tailwind CSS.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
-    liveUrl: "https://project-one.example.com",
-    githubUrl: "https://github.com/yourusername/project-one",
+      "A full-stack web application built with Mern stack , Tailwind CSS and Socket.io.It is a investing platfrom where investors can get monthly or yearly retunrs according to their investment.I hosted this website with Hostingers Vps Server",
+    image: "/images/investkoree-preview.jpg",
+    tags: ["Nodejs", "React", "Tailwind CSS", "Socket.io"],
+    liveUrl: "https://www.investkoree.com/",
+    githubUrl: "https://github.com/arnobm97/InvestKoree_New",
   },
   {
     id: 2,
