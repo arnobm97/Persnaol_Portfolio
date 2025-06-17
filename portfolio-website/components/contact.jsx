@@ -148,7 +148,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-medium">Location</h3>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
-                      City, Country
+                      Dhaka,Bangladesh
                     </p>
                   </div>
                 </div>
