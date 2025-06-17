@@ -91,7 +91,7 @@ export default function Projects() {
               }`}
               style={{ transitionDelay: `${index * 200}ms` }}
             >
-              <div className="relative h-56 overflow-hidden">
+              <div className="relative h-48 overflow-hidden">
                 <img
                   src={project.image || "/placeholder.svg"}
                   alt={project.title}
