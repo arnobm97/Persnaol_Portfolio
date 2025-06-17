@@ -8,30 +8,47 @@ const projects = [
     id: 1,
     title: "investkoree.com",
     description:
-      "A full-stack web application built with Mern stack , Tailwind CSS and Socket.io.It is a investing platfrom where investors can get monthly or yearly retunrs according to their investment.I hosted this website with Hostingers Vps Server",
+      "A full-stack investment platform built with the MERN stack, Tailwind CSS, and Socket.io. Investors can earn monthly or yearly returns based on their investments. The platform is hosted on a VPS server from Hostinger.",
     image: "/1.png",
-    tags: ["Nodejs", "React", "Tailwind CSS", "Socket.io"],
+    tags: [
+      "Nodejs",
+      "React",
+      "Tailwind CSS",
+      "Socket.io",
+      "Express",
+      "Firebase",
+    ],
     liveUrl: "https://www.investkoree.com/",
     githubUrl: "https://github.com/arnobm97/InvestKoree_New",
   },
   {
     id: 2,
-    title: "Project Two",
+    title: "CityScapeHomes",
     description:
-      "An e-commerce platform with payment integration and user authentication.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    liveUrl: "https://project-two.example.com",
-    githubUrl: "https://github.com/yourusername/project-two",
+      "CityScapeHomes is a dynamic real estate e-commerce platform where users can browse, search, and purchase properties online. It includes user authentication,  responsive UI with DaisyUI and Animate.css, and a modern React frontend powered by a Node.js + MongoDB backend.",
+
+    image: "/2.png",
+    tags: [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "animate.css",
+      "daisyui",
+      "Tailwind CSS",
+    ],
+    liveUrl: "https://react-cityscapehomes.web.app/",
+    githubUrl: "https://github.com/arnobm97/CityScapeHomes-React",
   },
   {
     id: 3,
-    title: "Project Three",
-    description: "A real-time chat application with WebSocket integration.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["React", "Socket.io", "Express", "Firebase"],
-    liveUrl: "https://project-three.example.com",
-    githubUrl: "https://github.com/yourusername/project-three",
+    title: "Smart Ticket",
+    description:
+      "Smart Ticket is a modern bus ticket booking platform where users can select seats, view real-time availability, and confirm bookings through an interactive UI. Built with JavaScript, HTML5, and Tailwind CSS for a seamless user experience.",
+
+    image: "/3.png",
+    tags: ["Javascript", "HTML5", "Tailwind CSS"],
+    liveUrl: "https://smart-ticket-six.vercel.app/",
+    githubUrl: "https://github.com/arnobm97/Smart_ticket",
   },
 ];
 
@@ -162,7 +179,7 @@ export default function Projects() {
 
         <div className="text-center mt-12">
           <Link
-            href="https://github.com/yourusername"
+            href="https://github.com/arnobm97?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-4 py-2 border border-gray-300 shadow-sm text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 dark:bg-gray-800 dark:text-gray-200 dark:border-gray-700 dark:hover:bg-gray-700"
