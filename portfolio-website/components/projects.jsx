@@ -10,14 +10,7 @@ const projects = [
     description:
       "A full-stack investment platform built with the MERN stack, Tailwind CSS, and Socket.io. Investors can earn monthly or yearly returns based on their investments. The platform is hosted on a VPS server from Hostinger.",
     image: "/1.png",
-    tags: [
-      "Nodejs",
-      "React",
-      "Tailwind CSS",
-      "Socket.io",
-      "Express",
-      "Firebase",
-    ],
+    tags: ["Nodejs", "React", "Tailwind CSS", "Socket.io"],
     liveUrl: "https://www.investkoree.com/",
     githubUrl: "https://github.com/arnobm97/InvestKoree_New",
   },
@@ -28,14 +21,7 @@ const projects = [
       "CityScapeHomes is a dynamic real estate e-commerce platform where users can browse, search, and purchase properties online. It includes user authentication,  responsive UI with DaisyUI and Animate.css, and a modern React frontend powered by a Node.js + MongoDB backend.",
 
     image: "/2.png",
-    tags: [
-      "React",
-      "Node.js",
-      "MongoDB",
-      "animate.css",
-      "daisyui",
-      "Tailwind CSS",
-    ],
+    tags: ["React", "Node.js", "MongoDB", "animate.css"],
     liveUrl: "https://react-cityscapehomes.web.app/",
     githubUrl: "https://github.com/arnobm97/CityScapeHomes-React",
   },
