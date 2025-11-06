@@ -49,7 +49,7 @@ export default function About() {
           <h3 className="text-2xl font-bold mb-4">Who am I?</h3>
           <p className="text-gray-600 dark:text-gray-400 mb-6">
             I'm a passionate Full Stack Developer with expertise in building
-            modern web applications. With over 8 months of experience in the
+            modern web applications. With over 1 year of experience in the
             industry, I've worked on a variety of projects ranging from small
             business websites to complex enterprise applications.
           </p>
@@ -61,9 +61,9 @@ export default function About() {
 
           <div className="grid grid-cols-2 max-w-md mx-auto gap-4 mb-8">
             <div className="p-4 border rounded-lg shadow-sm bg-white dark:bg-gray-800 dark:border-gray-700">
-              <h4 className="font-bold">8</h4>
+              <h4 className="font-bold">1</h4>
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                Months of Experience
+                Year of Experience
               </p>
             </div>
             <div className="p-4 border rounded-lg shadow-sm bg-white dark:bg-gray-800 dark:border-gray-700">
